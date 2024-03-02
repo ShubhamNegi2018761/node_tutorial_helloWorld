@@ -24,3 +24,5 @@ console.log(result);
 
 let filter=_.uniq(data);
 console.log(filter);
+
+//gti has been added succefully
