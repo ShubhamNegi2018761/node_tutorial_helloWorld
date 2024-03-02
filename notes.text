@@ -1,0 +1,3 @@
+npm is a package manager
+anything installed  from node js will be inside in node_modules
+package lock json is the detailed version of install pacakages installed in node modules and has entry in package json
